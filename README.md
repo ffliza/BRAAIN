@@ -26,9 +26,6 @@
 
 ---
 
-
-
-
 ## 🛠 Methodology  
 ### **Technical Approach**  
 - **Adversarial Training**: Stress-testing AI models against perturbations.  
