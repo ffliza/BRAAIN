@@ -7,12 +7,12 @@
 
 <img src="img/logo.png" width="300" />
 
-![Alt text](img/logo.png)
+<!-- ![Alt text](img/logo.png) -->
 
 ---
 
 ## 📌 Overview  
-This project investigates **trustworthy AI navigation systems** by enhancing their resilience against adversarial attacks, biases, and environmental uncertainties while ensuring transparent decision-making.  
+This project investigates **trustworthy artificial intelligence systems for education** by enhancing their resilience against adversarial attacks, biases, and environmental uncertainties while ensuring transparent decision-making.  
 
 **Key Objectives**:  
 ✔ Improve robustness of AI usage in dynamic and complex environments such as Education.  
@@ -29,25 +29,26 @@ This project investigates **trustworthy AI navigation systems** by enhancing the
 - **Explainability Tools**: SHAP, LIME, or custom interpretability modules.  
 <!--  - **Simulation/Real-World Testing**: Controlled experiments platforms. -->  
 
+<!--
 ### **Data & Tools**  
 - **Datasets**: [NuScenes](https://www.nuscenes.org/), [KITTI](http://www.cvlibs.net/datasets/kitti/).  
-<!-- - **Code**: PyTorch/TensorFlow, ROS (for robotics integration).   -->
+- **Code**: PyTorch/TensorFlow, ROS (for robotics integration).   -->
   
 
 ---
 
 ## 👥 Team & Collaborators  
-**Principal Investigator**: [Dr. Jane Doe](https://github.com/janedoe) (*University of XYZ*)  
-**Researchers**:  
-- [John Smith](https://github.com/johnsmith) (AI Safety)  
-- [Alice Lee](https://github.com/alicelee) (Human-AI Interaction)  
+**Lead Investigator**: [Dr. Farhana Ferdousi Liza](https://research-portal.uea.ac.uk/en/persons/farhana-ferdousi-liza-fhea) (*University of East Anglia, UK.*)  (AI Safety and Security)  
+**Co-Lead Investigator**:  
+- [Dr. Shoaib Ahmed](https://profiles.sussex.ac.uk/p590456-shoaib-ahmed/professional) (Ethics and Accountability)  
+- [Dr. Katherine Deane](https://research-portal.uea.ac.uk/en/persons/katherine-deane) (Accessibility)  
 
 **Partners**:  
-| [![EPSRC Logo](https://via.placeholder.com/150x50?text=EPSRC)](https://epsrc.ukri.org/) | [![AISI Logo](https://via.placeholder.com/150x50?text=AISI)](https://www.aisi.org/) |  
+| [![EPSRC Logo](https://via.placeholder.com/150x50?text=EPSRC)](https://epsrc.ukri.org/) | [![AISI Logo](https://via.placeholder.com/150x50?text=AISI)](https://www.aisi.org/) |   
 |-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|  
 
 ---
-
+<!--
 ## 📊 Findings & Outputs  
 **Publications**:  
 - *"Resilient AI Navigation Under Uncertainty"* (Preprint, 2024) [[PDF]](#)  
@@ -65,14 +66,15 @@ This project investigates **trustworthy AI navigation systems** by enhancing the
 *(Add a link to a [project blog](#) if available.)*  
 
 ---
+-->
 
 ## 💡 How to Contribute  
 We welcome collaborations! Contact us via:  
-- **Email**: ai-nav-project@xyz.ac.uk  
-- **GitHub Issues**: [Report bugs/request features](https://github.com/your-repo/issues).  
+- **Email**: f.liza@uea.ac.uk  
+<!-- - **GitHub Issues**: [Report bugs/request features](https://github.com/your-repo/issues).  -->
 
 **Funding Acknowledgments**:  
-This work is supported by EPSRC Grant #XXXXX and AISI Grant #YYYYY.  
+This work is supported by EPSRC and AISI Grant #YYYYY.  
 
 ---
 
