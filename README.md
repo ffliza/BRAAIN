@@ -62,6 +62,6 @@ Would you be interested in contributing? Open an issue or reach out via email!
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<div align="center"> <sub>Built with ❤️ by the Responsible AI Education Team</sub> </div> ```
+<div align="center"> <sub>Built with ❤️ by the Responsible AI Education Team</sub> </div> 
 
 
