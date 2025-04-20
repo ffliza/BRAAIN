@@ -47,7 +47,7 @@
 
 
 ## 🤝 Partners & Funding
-<div align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> </div>
+<p align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> </p>
 Grant Support: EPSRC/AISI Grant #YYYYY
 
 ## 💬 Get Involved
@@ -62,7 +62,7 @@ Would you be interested in contributing? Open an issue or reach out via email!
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<div align="center"> <sub>Built with ❤️ by the Responsible AI Education Team</sub> </div> 
+<p align="center"> <sub>Built with ❤️ by the Responsible AI Education Team</sub> </p> 
 
 
 
