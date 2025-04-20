@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/logo.png" alt="Project Logo" width="300">
+  <img src="img/logo.png" alt="Project Logo" width="300"> </p>
   
   # 🌐 Building Resilience & Accountability in AI for Education
   
@@ -7,7 +7,7 @@
 <!--  ![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/your-project?color=5bc0be)
   ![License](https://img.shields.io/badge/license-MIT-blue) -->
 
-</p>
+
 
 ---
 
