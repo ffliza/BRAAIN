@@ -38,35 +38,34 @@
 | **Explainability** | SHAP, LIME, Custom Modules |
 | **Evaluation** | Controlled educational experiments |
 
-```mermaid
-graph TD
-    A[Data Collection] --> B[Model Training]
-    B --> C[Adversarial Testing]
-    C --> D[Explainability Analysis]
-    D --> E[Real-world Validation]
-👩‍💻 Research Team
+
+## 👩‍💻 Research Team
 <div align="center">
 Role	Researcher	Affiliation	Focus Area
 Lead Investigator	Dr. Farhana Ferdousi Liza	University of East Anglia	AI Safety & Security
 Co-Investigator	Dr. Shoaib Ahmed	University of Sussex	Ethics & Accountability
 Co-Investigator	Dr. Katherine Deane	University of East Anglia	Accessibility
 </div>
-🤝 Partners & Funding
+
+## 🤝 Partners & Funding
 <div align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> </div>
 Grant Support: EPSRC/AISI Grant #YYYYY
 
-💬 Get Involved
+## 💬 Get Involved
 We welcome collaborations from researchers and educators!
 
 📧 Contact: f.liza@uea.ac.uk
 📢 Follow: @ProjectTwitterHandle
 
-diff
-+ Interested in contributing? Open an issue or reach out via email!
-📜 License
+Would you be interested in contributing? Open an issue or reach out via email!
+
+## 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 <div align="center"> <sub>Built with ❤️ by the Responsible AI Education Team</sub> </div> ```
+
+
 <!-- 
 <img src="img/logo.png" width="300" />
 
