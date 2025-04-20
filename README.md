@@ -4,6 +4,9 @@
 <!--  ![Project Banner](https://via.placeholder.com/1200x400?text=AI+Navigation+Resilience+Project)  
 *(Replace with a high-quality image of AI navigation, lab work, or conceptual visuals.)*  -->
 
+
+<img src="img/logo.png" width="300" />
+
 ![Alt text](img/logo.png)
 
 ---
