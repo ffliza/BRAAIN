@@ -80,4 +80,4 @@ This work is supported by EPSRC and AISI Grant #YYYYY.
 
 ## 📜 License  
 This project is open-source under the [MIT License](LICENSE).  
-*(Adjust if proprietary.)*  
+<!-- *(Adjust if proprietary.)*   -->
