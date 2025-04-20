@@ -66,14 +66,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-
----
-
-## 📜 License
-
-This project is released under the [MIT License](LICENSE).
-
-<div align="center">
-  <sub>Built with ❤️ by the Responsible AI Education Team</sub>
-</div>
-![image](https://github.com/user-attachments/assets/b797c28d-8f58-44cf-8e66-773d804cc39f)
