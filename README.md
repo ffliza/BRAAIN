@@ -1,13 +1,11 @@
 <p align="center">
   <img src="img/logo.png" alt="Project Logo" width="300"> </p>
   
-  # 🌐 Building Resilience & Accountability in AI for Education
+  ## 🌐 Building Resilience & Accountability in AI for Education
   
   *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
 <!--  ![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/your-project?color=5bc0be)
   ![License](https://img.shields.io/badge/license-MIT-blue) -->
-
-
 
 ---
 
