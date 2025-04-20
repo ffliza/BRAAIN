@@ -26,13 +26,15 @@
 
 ---
 
-## 🧠 Methodology
-### Technical Approach
-| Component | Tools/Techniques |
-|-----------|------------------|
-| **Adversarial Training** | Stress-testing AI models |
-| **Explainability** | SHAP, LIME, Custom Modules |
-| **Evaluation** | Controlled educational experiments |
+
+
+
+## 🛠 Methodology  
+### **Technical Approach**  
+- **Adversarial Training**: Stress-testing AI models against perturbations.  
+- **Explainability Tools**: SHAP, LIME, or custom interpretability modules.  
+- **Evaluation** Controlled educational experiments.
+
 
 
 ## 👥 Research Team
