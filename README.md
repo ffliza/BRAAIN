@@ -37,15 +37,14 @@
 
 
 ## 👥 Research Team
-<div align="center">
+
 
 **Lead Investigator**: [Dr. Farhana Ferdousi Liza](https://research-portal.uea.ac.uk/en/persons/farhana-ferdousi-liza-fhea) (*University of East Anglia, UK.*)  (AI Safety and Security)  
 **Co-Lead Investigator**:  
 - [Dr. Shoaib Ahmed](https://profiles.sussex.ac.uk/p590456-shoaib-ahmed/professional) (Ethics and Accountability)  
 - [Dr. Katherine Deane](https://research-portal.uea.ac.uk/en/persons/katherine-deane) (Accessibility)  
-![image](https://github.com/user-attachments/assets/4e8b82b4-e595-49b6-a25c-1a479b64ff4c)
 
-</div>
+
 
 ## 🤝 Partners & Funding
 <div align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> </div>
