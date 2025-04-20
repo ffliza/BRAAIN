@@ -1,3 +1,5 @@
+<img src="img/logo.png" width="300" />
+
 # 🔍 Building the Resilience and Accountability of Artificial Intelligence Navigation in Education  
 *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
 
@@ -5,7 +7,7 @@
 *(Replace with a high-quality image of AI navigation, lab work, or conceptual visuals.)*  -->
 
 
-<img src="img/logo.png" width="300" />
+
 
 <!-- ![Alt text](img/logo.png) -->
 
