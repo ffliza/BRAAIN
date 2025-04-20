@@ -1,5 +1,5 @@
-# 🔍 Building the Resilience and Accountability of Artificial Intelligence in Education  
-*A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.org/)*  
+# 🔍 Building the Resilience and Accountability of Artificial Intelligence Navigation in Education  
+*A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
 
 ![Project Banner](https://via.placeholder.com/1200x400?text=AI+Navigation+Resilience+Project)  
 *(Replace with a high-quality image of AI navigation, lab work, or conceptual visuals.)*  
