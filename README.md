@@ -21,7 +21,25 @@
 
 
 ## Overview
-**Investigating trustworthy AI systems for education** through resilience enhancement against adversarial attacks, biases, and environmental uncertainties while ensuring transparent decision-making.
+<!-- **Investigating trustworthy AI systems for education** through resilience enhancement against adversarial attacks, biases, and environmental uncertainties while ensuring transparent decision-making. -->
+
+### Study Overview
+This research project seeks to advance understanding of artificial intelligence (AI) and inform educational policy by examining the role of Generative Artificial Intelligence (GenAI) in UK Higher Education (HE). With a focus on technologies such as ChatGPT and DeekSeek, the project explores how these tools are being embedded into academic practice. It considers not only their potential advantages and risks but also the preparedness and resilience of users navigating this evolving digital landscape.
+At its core, the project is committed to producing robust, evidence-based insights that support the ethical, effective and responsible integration of AI across the HE sector. The findings will be presented in a detailed report and shared with key stakeholders, including universities and relevant government departments. To extend its reach and impact, the study will also generate peer-reviewed academic publications, contributing to ongoing scholarly discussions and future policy development.
+
+### Purpose and Research Focus
+This project welcomes the participation of a wide range of individuals—university students, academic staff, administrators, policymakers, regulators and AI industry experts—to explore the use and implications of GenAI in HE. It seeks to understand the motivations behind the adoption of these tools and to examine the impact when such technologies become unreliable or inaccessible.
+By drawing on participants’ real-world experiences with GenAI in teaching, learning and assessment, the study aims to uncover practical insights into their value, limitations and ethical implications. These perspectives are essential to shaping responsible and evidence-informed policies for the integration of GenAI technologies in the HE landscape.
+
+### Study Design
+Ethically approved by the University of East Anglia (Ref: ETH2425-1497), this interdisciplinary research will adopt a mixed-methods approach, conducted in two distinct phases:
+
+#### Phase One: Take-Home Assessment and Evaluation
+Undergraduate and postgraduate students from a range of academic backgrounds will be invited to complete take-home assessments. Participant recruitment will follow Equality, Diversity and Inclusion (EDI) principles to ensure a fair and representative sample. Participation is entirely voluntary, with the freedom to withdraw at any time without the need to provide a reason.
+
+#### Phase Two: In-Depth Interviews and Focus Groups
+This phase will involve individual interviews and focus group discussions with students and educators from Phase One, as well as policymakers, regulators and industry experts. These sessions aim to provide deeper insight into participants’ perspectives, behaviours and decision-making processes related to GenAI use in academic and professional environments.
+To acknowledge participants’ time, insight and expertise, appropriate financial incentives and other forms of compensation will be provided. These will be administered in line with ethical research practices and financial compliance requirements, ensuring transparency, fairness and respect for all contributors.
 
 
 ### Key Objectives
