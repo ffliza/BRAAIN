@@ -31,11 +31,11 @@
 This research project seeks to advance understanding of artificial intelligence (AI) and inform educational policy by examining the role of Generative Artificial Intelligence (GenAI) in UK Higher Education (HE). With a focus on technologies such as ChatGPT and DeekSeek, the project explores how these tools are being embedded into academic practice. It considers not only their potential advantages and risks but also the preparedness and resilience of users navigating this evolving digital landscape.
 At its core, the project is committed to producing robust, evidence-based insights that support the ethical, effective and responsible integration of AI across the HE sector. The findings will be presented in a detailed report and shared with key stakeholders, including universities and relevant government departments. To extend its reach and impact, the study will also generate peer-reviewed academic publications, contributing to ongoing scholarly discussions and future policy development.
 
-### Purpose and Research Focus
+## Purpose and Research Focus
 This project welcomes the participation of a wide range of individuals—university students, academic staff, administrators, policymakers, regulators and AI industry experts—to explore the use and implications of GenAI in HE. It seeks to understand the motivations behind the adoption of these tools and to examine the impact when such technologies become unreliable or inaccessible.
 By drawing on participants’ real-world experiences with GenAI in teaching, learning and assessment, the study aims to uncover practical insights into their value, limitations and ethical implications. These perspectives are essential to shaping responsible and evidence-informed policies for the integration of GenAI technologies in the HE landscape.
 
-### Get Involved
+## Get Involved
 Ethically approved by the University of East Anglia (Ref: ETH2425-1497), this interdisciplinary research will adopt a mixed-methods approach, conducted in two distinct phases:
 
 #### Phase One: Take-Home Assessment and Evaluation
@@ -100,7 +100,7 @@ Would you be interested in contributing? Reach out via email!
 Grant Support: EPSRC/AISI Grant #YYYYY
 -->
 
-## License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
