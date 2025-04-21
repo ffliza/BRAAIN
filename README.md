@@ -12,9 +12,13 @@
 ## Project Details
 
 **Title:** BRA(AI)N - Building Resilience and Accountability in Artificial Intelligence Navigation
+
 **Start Date:** February 2025
+
 **End Date:** February 2026
+
 **Status:** Current
+
 **Funder(s):** UKRI EPSRC and AI Security Institute (AISI)
 
 
