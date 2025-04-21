@@ -41,11 +41,12 @@ Undergraduate and postgraduate students from a range of academic backgrounds wil
 This phase will involve individual interviews and focus group discussions with students and educators from Phase One, as well as policymakers, regulators and industry experts. These sessions aim to provide deeper insight into participants’ perspectives, behaviours and decision-making processes related to GenAI use in academic and professional environments.
 To acknowledge participants’ time, insight and expertise, appropriate financial incentives and other forms of compensation will be provided. These will be administered in line with ethical research practices and financial compliance requirements, ensuring transparency, fairness and respect for all contributors.
 
-
+<!-- 
 ### Key Objectives
 ✔ **Robustness**: Improve artificial intelligence reliability in dynamic educational environments  
 ✔ **Accountability**: Develop transparent decision support frameworks  
 ✔ **Impact**: Test systems in real-world skill development scenarios  
+-->
 
 **Focus Areas**:  
 🔹 Artificial Intelligence Safety & Security
