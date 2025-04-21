@@ -25,23 +25,25 @@
 
 
 ### Key Objectives
-✔ **Robustness**: Improve AI reliability in dynamic educational environments  
-✔ **Accountability**: Develop transparent decision-logging frameworks  
+✔ **Robustness**: Improve artificial intelligence reliability in dynamic educational environments  
+✔ **Accountability**: Develop transparent decision support frameworks  
 ✔ **Impact**: Test systems in real-world skill development scenarios  
 
 **Focus Areas**:  
-🔹 AI Safety & Security  
-🔹 Ethical Compliance  
+🔹 Artificial Intelligence Safety & Security  
+🔹 Ethical Compliance and Accountability 
 🔹 Accessibility in EdTech  
+🔹 Policy Development
 
 ---
 
+<!--
 ## 🛠 Methodology  
 ### **Technical Approach**  
 - **Adversarial Training**: Stress-testing AI models against perturbations.  
 - **Explainability Tools**: SHAP, LIME, or custom interpretability modules.  
 - **Evaluation** Controlled educational experiments.
-
+-->
 
 
 ## 👥 Research Team
