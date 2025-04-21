@@ -1,8 +1,8 @@
+## Building Resilience and Accountability in Artificial Intelligence Navigation
+
 <p align="center">
   <img src="img/logo.png" alt="Project Logo" width="300"> </p>
   
-
-# Building Resilience and Accountability in Artificial Intelligence Navigation
   
 <!--  *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
 
