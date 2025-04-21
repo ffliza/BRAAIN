@@ -20,7 +20,7 @@
   - AI Security Institute (AISI)
 
 
-## 🎯 Overview
+## Overview
 **Investigating trustworthy AI systems for education** through resilience enhancement against adversarial attacks, biases, and environmental uncertainties while ensuring transparent decision-making.
 
 
@@ -46,7 +46,7 @@
 -->
 
 
-## 👥 Research Team
+## Research Team
 <!-- **Co-Lead Investigator**:  -->
 
 **Investigator**: 
@@ -56,19 +56,19 @@
 
 
 
-## 🤝 Partners & Funding
+## Partners & Funding
 <p align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> </p>
 Grant Support: EPSRC/AISI Grant #YYYYY
 
-## 💬 Get Involved
+## Get Involved
 We welcome collaborations from researchers and educators!
 
 📧 Contact: f.liza@uea.ac.uk
 📢 Follow: @ProjectTwitterHandle
 
-Would you be interested in contributing? Open an issue or reach out via email!
+Would you be interested in contributing? Reach out via email!
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
