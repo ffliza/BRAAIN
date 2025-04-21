@@ -9,7 +9,6 @@
   ![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/your-project?color=5bc0be)
   ![License](https://img.shields.io/badge/license-MIT-blue) -->
 
----
 
 ## Project Details
 
