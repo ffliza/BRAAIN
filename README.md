@@ -1,7 +1,6 @@
-## Building Resilience and Accountability in Artificial Intelligence Navigation
 
 <p align="center">
-  <img src="img/logo.png" alt="Project Logo" width="300"> </p>
+  <img src="img/lighthouse_horizontal.png" alt="Project Logo" width="300"> </p>
   
   
 <!--  *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
@@ -12,12 +11,11 @@
 
 ## Project Details
 
-- **Start Date:** February 2025
-- **End Date:** February 2026
-- **Status:** Current
-- **Funder(s):** 
-  - UKRI EPSRC
-  - AI Security Institute (AISI)
+**Title:** BRA(AI)N - Building Resilience and Accountability in Artificial Intelligence Navigation
+**Start Date:** February 2025
+**End Date:** February 2026
+**Status:** Current
+**Funder(s):** UKRI EPSRC and AI Security Institute (AISI)
 
 
 ## Overview
