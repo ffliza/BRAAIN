@@ -46,9 +46,9 @@ This phase will involve individual interviews and focus group discussions with s
 
 To acknowledge participants’ time, insight and expertise, appropriate financial incentives and other forms of compensation will be provided. These will be administered in line with ethical research practices and financial compliance requirements, ensuring transparency, fairness and respect for all contributors.
 
-🔹 Project Information [click to download]()
+🔹 Project Information [click to download](docs/Participant Information Sheet Simplified.pdf)
 
-🔹 Concent Form [click to download]()
+🔹 Concent Form [click to download](docs/PARTICIPANT CONSENT FORM.pdf)
 
 
 <!-- 
