@@ -2,7 +2,7 @@
   <img src="img/logo.png" alt="Project Logo" width="300"> </p>
   
 
-## 🌐 Building Resilience & Accountability in AI for Education
+## BRA(AI)N - Building Resilience and Accountability in Artificial Intelligence Navigation
   
   *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
 <!--  ![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/your-project?color=5bc0be)
