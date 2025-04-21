@@ -30,9 +30,9 @@
 ✔ **Impact**: Test systems in real-world skill development scenarios  
 
 **Focus Areas**:  
-🔹 Artificial Intelligence Safety & Security  
-🔹 Ethical Compliance and Accountability 
-🔹 Accessibility in EdTech  
+🔹 Artificial Intelligence Safety & Security
+🔹 Ethical Compliance and Accountability
+🔹 Accessibility in EdTech
 🔹 Policy Development
 
 ---
