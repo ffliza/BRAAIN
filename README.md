@@ -37,8 +37,9 @@
 ## 👥 Research Team
 
 
-**Lead Investigator**: [Dr. Farhana Ferdousi Liza](https://research-portal.uea.ac.uk/en/persons/farhana-ferdousi-liza-fhea) (*University of East Anglia, UK.*)  (AI Safety and Security)  
-**Co-Lead Investigator**:  
+**Investigator**: 
+- [Dr. Farhana Ferdousi Liza](https://research-portal.uea.ac.uk/en/persons/farhana-ferdousi-liza-fhea) (*University of East Anglia, UK.*)  (AI Safety and Security)  
+<! -- **Co-Lead Investigator**:  -->
 - [Dr. Shoaib Ahmed](https://profiles.sussex.ac.uk/p590456-shoaib-ahmed/professional) (Ethics and Accountability)  
 - [Dr. Katherine Deane](https://research-portal.uea.ac.uk/en/persons/katherine-deane) (Accessibility)  
 
