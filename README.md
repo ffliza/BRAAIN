@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="img/logo.png" alt="Project Logo" width="300"> </p>
+  <img src="img/block_logo.png" alt="Project Logo" width="300"> </p>
   
   
 <!--  *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
