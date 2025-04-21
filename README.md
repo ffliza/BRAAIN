@@ -63,7 +63,7 @@ Would you be interested in contributing? Reach out via email!
 
 
 ## Partners & Funding
-<p align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/UKRI.png" alt="UKRI EPSRC" height="50"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/AISI.svg" alt="AISI" height="50"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/research/"> <img src="img/MS.png" alt="Microsoft" height="50"> </a> &nbsp;&nbsp;&nbsp; </p>
+<p align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/UKRI.png" alt="UKRI EPSRC" height="50"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/AISI.svg" alt="AISI" height="50"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/research/"> <img src="img/MS.png" alt="Microsoft" height="70"> </a> &nbsp;&nbsp;&nbsp; </p>
 
 
 Grant Support: EPSRC/AISI Grant #YYYYY
