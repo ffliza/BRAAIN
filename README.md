@@ -4,11 +4,22 @@
 
 ## Building Resilience and Accountability in Artificial Intelligence Navigation
   
-  *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
-<!--  ![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/your-project?color=5bc0be)
+<!--  *A research project funded by [EPSRC](https://epsrc.ukri.org/) and [AISI](https://www.aisi.gov.uk/)*  
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/your-repo/your-project?color=5bc0be)
   ![License](https://img.shields.io/badge/license-MIT-blue) -->
 
 ---
+
+## Project Details
+
+- **Start Date:** February 2025
+- **End Date:** December 2026
+- **Status:** Current
+- **Funder(s):** 
+  - UKRI EPSRC
+  - AI Security Institute (AISI)
+
 
 ## 🎯 Overview
 **Investigating trustworthy AI systems for education** through resilience enhancement against adversarial attacks, biases, and environmental uncertainties while ensuring transparent decision-making.
