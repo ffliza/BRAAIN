@@ -35,7 +35,13 @@
 🔹 Accessibility in EdTech
 🔹 Policy Development
 
----
+## Get Involved
+We welcome collaborations from researchers and educators!
+
+📧 Contact: f.liza@uea.ac.uk
+📢 Follow: @ProjectTwitterHandle
+
+Would you be interested in contributing? Reach out via email!
 
 <!--
 ## 🛠 Methodology  
@@ -57,16 +63,10 @@
 
 
 ## Partners & Funding
-<p align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> </p>
+<p align="center"> <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.aisi.gov.uk/"> <img src="img/aisi-logo.png" alt="AISI" height="80"> </a> &nbsp;&nbsp;&nbsp; <a href="https://epsrc.ukri.org/"> <img src="img/epsrc-logo.png" alt="EPSRC" height="80"> </a> &nbsp;&nbsp;&nbsp; </p>
 Grant Support: EPSRC/AISI Grant #YYYYY
 
-## Get Involved
-We welcome collaborations from researchers and educators!
 
-📧 Contact: f.liza@uea.ac.uk
-📢 Follow: @ProjectTwitterHandle
-
-Would you be interested in contributing? Reach out via email!
 
 ## License
 
